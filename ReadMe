@@ -1,0 +1,4 @@
+uses a binary search alogorithm to search list
+searches for specified item in list, passed to function by user
+list object and item to be matched are both passed by user
+function returns string stating if item was found, if found index found at is included.
